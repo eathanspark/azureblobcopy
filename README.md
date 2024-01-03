@@ -1,1 +1,1 @@
-# PowerShell: Copy List of Blobs from one Azure Blob Container to Another
+# PowerShell: Copy List of Blobs from One Azure Blob Container to Another
