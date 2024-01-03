@@ -10,6 +10,7 @@
 - Powershell Az Module
 - New-AzStorageContext
 - Get-AzStorageBlob
+- Copy-AzStorageBlob
 - Export-Csv
 
 ## Script
