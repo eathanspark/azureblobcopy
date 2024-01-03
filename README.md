@@ -4,6 +4,7 @@ We have a web portal which stores files in a azure blob conatiner by uploading f
 ## Solution Features
 - Find out the files which need to be copy to another conatine byt using this script [File Name List](https://github.com/eathanspark/azurebloblist) and create source csv file as given in sample file.
 - Filter (exclude files having extention like .doc/.docx/.ppt/.pptx/.pdf/.txt etc)
+- Batch Execution by setting up batch size in script
 - Exception Handling
 - Logging
 - Copy status as output file 
