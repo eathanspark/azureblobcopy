@@ -1,4 +1,4 @@
-# PowerShell: Copy List of Blobs from One Azure Blob Container to Another
+# PowerShell: Copy List of Blobs from One Azure Blob Container to Another in Batches
 ## Use Case / Requirment
 We have a web portal which stores files in a azure blob conatiner by uploading from UI in different folder sturcture based on category, location, market ..etc inside same container. Now we have to copy some specific files from this container to another container with same folder struture. 
 ## Solution Features
